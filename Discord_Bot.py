@@ -19,7 +19,7 @@ import urllib
 
 #기본
 client = discord.Client()
-token = "ODUwNjk4MDU5NTExNDk2NzI0.YLtgTg.V9cs39610lTEuywu8IbTkjaBayk"
+token = "ODUwNjk4MDU5NTExNDk2NzI0." + "YLtgTg.3or17bQZlGNNnD3msYJhkxshI9c"
 
 #트위치
 twitch_Client_ID = 'y1hsew8veil7mhijz109iwt5rv3oco'
