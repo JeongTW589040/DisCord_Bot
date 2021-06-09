@@ -1,0 +1,12 @@
+discord.py
+
+
+requests
+BeautifulSoup4
+asyncio
+loads
+datetime
+pytz
+from bs4 import BeautifulSoup
+from urllib.request import urlopen
+import urllib
